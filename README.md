@@ -6,29 +6,31 @@ Repositório para trabalhos de informática
 
 ### Canva
 
-1º atividade- Apresentação em grupo no PowerPoint.
+1º atividade - Apresentação em grupo no Canva.
 
-[SHOW DO MILHÃO - FATEC.pptx](https://github.com/user-attachments/files/17078002/SHOW.DO.MILHAO.-.FATEC.pptx)
+[Apresentação Proposta Social Media Moderna Gradiente Colorido.pptx](https://github.com/user-attachments/files/17426383/Apresentacao.Proposta.Social.Media.Moderna.Gradiente.Colorido.pptx)
 
-### Exel
+### Excel
 
-2º atividade- uso dos dados abertos para montar uma planilha no exel.
+2º atividade - Uso dos dados abertos para montar uma planilha no excel.
 
-Fórmulas do exel usadas, somase, cont.se, índice, corresp e concat
+Fórmulas do excel usadas: somase, cont.se, e corresp
 
-[quantidade de alunos estrangeiros 2023 (1).xlsx](https://github.com/user-attachments/files/17078025/quantidade.de.alunos.estrangeiros.2023.1.xlsx)
+[Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023.xlsx](https://github.com/user-attachments/files/17426402/Quantidade.de.alunos.estrangeiros.por.nacionalidade_2.Semestre.2023.xlsx)
 
-3º atividade- Uso de dados abertos de nossa escolha para montar uma panilha no exel.
 
-Fórmulas do excel usadas, maxímo, mínimo, média, médiases, maior, menor, cont.se, cont.ses, índice e corrresp.
+3º atividade- Uso de dados abertos de nossa escolha para montar uma planilha no excel.
 
-[ultimas-4-semanas-gasolina-etanol, trabalho.xlsx](https://github.com/user-attachments/files/17081379/ultimas-4-semanas-gasolina-etanol.trabalho.xlsx)
+Fórmulas do excel usadas: máximo, mínimo e cont.se.
+
+[cadastro-revendas-glp(Recuperado Automaticamente).xlsx](https://github.com/user-attachments/files/17426667/cadastro-revendas-glp.Recuperado.Automaticamente.xlsx)
+
 
 ### PowerBI
 
-4º atividade- uso dos dados abertos para montar um dashboard no power BI.
+4º atividade- Visualização de dados por meio da plataforma Power BI
 
-https://github.com/joao-p-vargas/informatica/raw/refs/heads/main/ALUNOS%20ESTRANGEIROS.pbix
+
 
 ![image](https://github.com/user-attachments/assets/71e3540b-3f72-4f3a-8245-2853fa3ab4e9)
 ![image](https://github.com/user-attachments/assets/d4c84b76-ab72-4bda-a210-d565af35099f)
