@@ -30,10 +30,13 @@ Fórmulas do excel usadas: máximo, mínimo e cont.se.
 
 4º atividade- Visualização de dados por meio da plataforma Power BI
 
+![Captura de Tela (3)](https://github.com/user-attachments/assets/ea268557-8c69-408a-9a97-60f105432350)
 
 
-![image](https://github.com/user-attachments/assets/71e3540b-3f72-4f3a-8245-2853fa3ab4e9)
-![image](https://github.com/user-attachments/assets/d4c84b76-ab72-4bda-a210-d565af35099f)
+![Captura de Tela (1)](https://github.com/user-attachments/assets/f2491902-3b09-4f60-b6dc-dc1e92cb7e5b)
+
+![Captura de Tela (2)](https://github.com/user-attachments/assets/a6b1aa36-360f-4742-8b49-d59d93c1af87)
+
 
 5º atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
 
