@@ -6,20 +6,20 @@ Repositório para trabalhos de informática
 
 ### Canva
 
-1ª atividade - Apresentação em grupo no Canva.
+# 1ª atividade - Apresentação em grupo no Canva.
 
 [Apresentação Proposta Social Media Moderna Gradiente Colorido.pptx](https://github.com/user-attachments/files/17426383/Apresentacao.Proposta.Social.Media.Moderna.Gradiente.Colorido.pptx)
 
 ### Excel
 
-2ª atividade - Uso dos dados abertos para montar uma planilha no excel.
+# 2ª atividade - Uso dos dados abertos para montar uma planilha no excel.
 
 Fórmulas do excel usadas: somase, cont.se, e corresp
 
 [Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023.xlsx](https://github.com/user-attachments/files/17426402/Quantidade.de.alunos.estrangeiros.por.nacionalidade_2.Semestre.2023.xlsx)
 
 
-3ª atividade- Uso de dados abertos de nossa escolha para montar uma planilha no excel.
+# 3ª atividade- Uso de dados abertos de nossa escolha para montar uma planilha no excel.
 
 Fórmulas do excel usadas: máximo, mínimo e cont.se.
 
