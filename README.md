@@ -28,12 +28,12 @@ Fórmulas do excel usadas: máximo, mínimo e cont.se.
 
 ### PowerBI
 
-4ª atividade - VIsualização de imagens por meio da plataforma Power BI
+# 1ª atividade - Power BI - Visualização de Imagens
 
 ![Captura de Tela (1)](https://github.com/user-attachments/assets/e9cbecec-3678-40ca-920d-3df29c52c734)
 
 
-5ª atividade- Visualização de dados por meio da plataforma Power BI
+# 2ª atividade - Power BI - Visualização de Dados
 
 ![Captura de Tela (3)](https://github.com/user-attachments/assets/ea268557-8c69-408a-9a97-60f105432350)
 
@@ -43,13 +43,8 @@ Fórmulas do excel usadas: máximo, mínimo e cont.se.
 ![Captura de Tela (2)](https://github.com/user-attachments/assets/a6b1aa36-360f-4742-8b49-d59d93c1af87)
 
 
-5ª atividade - Uso de dados abertos de nossa escolha para montar um dashboard no power BI.
+# 3ª atividade - Power BI - 
 
-https://github.com/joao-p-vargas/informatica/commit/c67b1220d5cae484cce57b066ce4dee7ac932481
-
-![image](https://github.com/user-attachments/assets/b9bdce83-bdec-4b6f-934d-6b926609892d)
-
-![image](https://github.com/user-attachments/assets/2ae0f267-c321-4167-9f09-a924a341023b)
 
 
 ### Tecnologias Utilizadas
