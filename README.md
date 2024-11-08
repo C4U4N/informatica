@@ -8,6 +8,8 @@ Repositório para trabalhos de informática
 
 # 1ª atividade - Apresentação em grupo no Canva.
 
+![Captura de Tela (2)](https://github.com/user-attachments/assets/642d793c-b32d-4700-ab32-c3de96b8ac81)
+
 [Apresentação Proposta Social Media Moderna Gradiente Colorido.pptx](https://github.com/user-attachments/files/17426383/Apresentacao.Proposta.Social.Media.Moderna.Gradiente.Colorido.pptx)
 
 ### Excel
