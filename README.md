@@ -23,8 +23,10 @@ Fórmulas do excel usadas: somase, cont.se, e corresp
 
 
 # 3ª atividade- Uso de dados abertos de nossa escolha para montar uma planilha no excel.
+![Captura de Tela (6)](https://github.com/user-attachments/assets/4de71691-ecd7-45c0-818b-7e5e8b42925d)
 
 Fórmulas do excel usadas: máximo, mínimo e cont.se.
+
 
 [cadastro-revendas-glp(Recuperado Automaticamente).xlsx](https://github.com/user-attachments/files/17426667/cadastro-revendas-glp.Recuperado.Automaticamente.xlsx)
 
