@@ -54,7 +54,7 @@ Fórmulas do excel usadas: máximo, mínimo e cont.se.
 
 ### Tecnologias Utilizadas
 
-Exel, PowerPoint e PowerBI
+Excel, PowerPoint e PowerBI
 
 # 4ª atividade - Power BI -
 
