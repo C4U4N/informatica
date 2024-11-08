@@ -18,6 +18,7 @@ Repositório para trabalhos de informática
 
 Fórmulas do excel usadas: somase, cont.se, e corresp
 
+![Captura de Tela (4)](https://github.com/user-attachments/assets/d5bef83d-8e29-49cc-961f-48f68cca6666)
 [Quantidade de alunos estrangeiros por nacionalidade_2° Semestre 2023.xlsx](https://github.com/user-attachments/files/17426402/Quantidade.de.alunos.estrangeiros.por.nacionalidade_2.Semestre.2023.xlsx)
 
 
