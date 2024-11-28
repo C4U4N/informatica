@@ -56,7 +56,7 @@ Fórmulas do excel usadas: máximo, mínimo e cont.se.
 
 Excel, PowerPoint e PowerBI
 
-# 4ª atividade - Power BI -
+# 4ª atividade - Power BI - KPI
 
 ![Captura de Tela (1)](https://github.com/user-attachments/assets/55547e81-aa1a-48f8-8faa-0038b47cf738)
 
