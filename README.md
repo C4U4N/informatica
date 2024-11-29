@@ -68,3 +68,12 @@ Excel, PowerPoint e PowerBI
 ![Captura de Tela (2)](https://github.com/user-attachments/assets/ab51ebc4-975c-485b-9ee3-bf22c631a0db)
 
 [Power Apps.zip](https://github.com/user-attachments/files/17877074/Power.Apps.zip)
+
+
+### Power BI
+
+# Atividade Avaliativa - Power BI - Análise de dados abertos
+Através de uma busca em bases de dados abertos do estado de São Paulo, foi analisada os municípios que possuem Arquivo Público, seus habitantantes (Em 2010) e a partir de quando esta regulamentação foi aprovada
+
+![Captura de Tela (2)](https://github.com/user-attachments/assets/c1acd212-8544-44fb-8c01-ce2c2b2f349d)
+
